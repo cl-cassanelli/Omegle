@@ -15,5 +15,6 @@ git clone https://github.com/cl-cassanelli/Omegle.git
 3. Head over to the `Console` section, paste the contents of `index.js` and hit enter
 
 ## 🔒Step 2: Usage Commands
-1. Skip the strangers with: `skip` - `skippo` - `pippo`;
-2. Send your instagram with: `instagram` - `insta`.
+1. Automatically print stranger's information;
+2. Skip the strangers with: `skip` - `skippo` - `pippo`;
+3. Send your instagram with: `instagram` - `insta`.
