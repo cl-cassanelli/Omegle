@@ -86,9 +86,9 @@ recognition.onresult = async (e) => {
             const chats = document.querySelectorAll("textarea");
             for (chat of chats) {
                 try {
-                    chat.innerHTML = `cl_cassanelli`;
-                    chat.value = `cl_cassanelli`;
-                    chat.innerText = `cl_cassanelli`;
+                    chat.innerHTML = `instagram_account_username`;
+                    chat.value = `instagram_account_username`;
+                    chat.innerText = `instagram_account_username`;
                     chat.blur();
                 } catch { }
             }
