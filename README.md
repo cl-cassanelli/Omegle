@@ -11,7 +11,6 @@ This file was created for illustrative purposes, in case you use it I do not tak
 ```javascript
 git clone https://github.com/cl-cassanelli/Omegle.git
 ```
-;
 2. Open the google console with the combination: `ctrl + shift + i` or `right click + inspect element`;
 3. Head over to the `Console` section, paste the contents of `index.js` and hit enter
 
